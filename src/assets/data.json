@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "name": "face masks",
+    "brand": "VAN HEUSEN",
+    "price": 499,
+    "discount_price": 394,
+    "discount_percentage": 21,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5efb31bb481085a2e26817c5/van_heusen_assorted_masks_pack_of_4_reusable_3-ply_face_masks.jpg"
+  },
+  {
+    "id": 2,
+    "name": "checked shirt",
+    "brand": "Campus Sutra",
+    "price": 1499,
+    "discount_price": 824,
+    "discount_percentage": 45,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hf1/h39/17017248251934/campus_sutra_green_classic_checked_shirt_with_patch_pocket.jpg"
+  },
+  {
+    "id": 3,
+    "name": "mid washed jeans",
+    "brand": "DNMX",
+    "price": 1299,
+    "discount_price": 779,
+    "discount_percentage": 40,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hf7/hd5/15102285578270/dnmx_blue_skinny_mid-wash_skinny_jeans_with_contrast_taping.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "stripes t-shirt",
+    "brand": "RIGO",
+    "price": 749,
+    "discount_price": 397,
+    "discount_percentage": 47,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ha2/hec/17044591411230/rigo_navy_&_white_crew_stripes__slim_fit__crew-_neck_t-shirt.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "cotton A-line dress",
+    "brand": "INDIE PICKS",
+    "price": 1799,
+    "discount_price": 720,
+    "discount_percentage": 60,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h03/h15/15606503899166/indie_picks_multicoloured_a-line_striped_south_cotton_a-line_dress.jpg"
+  },
+  {
+    "id": 6,
+    "name": "kalamkari flared dress",
+    "brand": "INDIE PICKS",
+    "price": 2499,
+    "discount_price": 1250,
+    "discount_percentage": 50,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hf9/h31/16743453163550/indie_picks_multicoloured_fit_and_flare_handblock_print_kalamkari_nima_flared_dress.jpg"
+  },
+  {
+    "id": 7,
+    "name": "ajrak a-line dress",
+    "brand": "LOCAL DHAAGA",
+    "price": 5999,
+    "discount_price": 1200,
+    "discount_percentage": 80,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h0f/h97/12575967182878/local_dhaaga_beige_a-line_handblock_ajrak_print_a-line_cotton_dress.jpg"
+  },
+  {
+    "id": 8,
+    "name": "kalamkari handblock kurtaa",
+    "brand": "INDIE PICKS",
+    "price": 2499,
+    "discount_price": 1000,
+    "discount_percentage": 60,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h5f/h34/15761522032670/indie_picks_orange_a-line_nima_handblock_print_kalamkari_cotton_a-line_dress.jpg"
+  },
+  {
+    "id": 9,
+    "name": "crew neck t-shirt",
+    "brand": "DNMX",
+    "price": 299,
+    "discount_price": 209,
+    "discount_percentage": 30,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h33/h3f/15300294377502/dnmx_white_crew_typographic_print_crew-neck_t-shirt.jpg"
+  },
+  {
+    "id": 10,
+    "name": "geometric flared kurta",
+    "brand": "AVAASA MIX N' MATCH",
+    "price": 1699,
+    "discount_price": 934,
+    "discount_percentage": 45,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hab/h7c/14819428859934/avaasa_mix_n'_match_navy_blue_flared_geometric_print_flared_kurta.jpg"
+  },
+  {
+    "id": 11,
+    "name": "printed boxers",
+    "brand": "iVoc",
+    "price": 799,
+    "discount_price": 519,
+    "discount_percentage": 35,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5f06ed9c7cdb8c721b79b2d9/ivoc_assorted_regular_pack_of_2_printed_boxers.jpg"
+  },
+  {
+    "id": 12,
+    "name": "tye & dye kurta",
+    "brand": "ISHIN",
+    "price": 4999,
+    "discount_price": 1800,
+    "discount_percentage": 64,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5efe0502f997dd433b47fb05/ishin_pink_straight_tie_&_dye_straight_kurta_set.jpg"
+  },
+  {
+    "id": 13,
+    "name": "anarkali kurta",
+    "brand": "Aasi house of nayo",
+    "price": 1899,
+    "discount_price": 968,
+    "discount_percentage": 49,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hf7/h34/17080326324254/aasi-house_of_nayo_blue_anarkali_anarkali_kurta_with_embroidery.jpg"
+  },
+  {
+    "id": 14,
+    "name": "floral anarkali kurta",
+    "brand": "ISHIN",
+    "price": 2399,
+    "discount_price": 984,
+    "discount_percentage": 59,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5f049176f997dd433b49c337/ishin_green_anarkali_floral_anarkali_kurta.jpg"
+  },
+  {
+    "id": 15,
+    "name": "floral a-line kurta",
+    "brand": "JANASYA",
+    "price": 3299,
+    "discount_price": 1023,
+    "discount_percentage": 69,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h50/hca/15741657317406/janasya_turquoise_a-line_floral_a-line_kurta_set.jpg"
+  },
+  {
+    "id": 16,
+    "name": "zip-front hoodie",
+    "brand": "PUMA",
+    "price": 4299,
+    "discount_price": 2364,
+    "discount_percentage": 45,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h44/h07/14185706291230/puma_grey_hoodies_nu-tility_zip-front_hoodie_with_insert_pockets.jpg"
+  },
+  {
+    "id": 17,
+    "name": "straight track pant",
+    "brand": "PROLINE",
+    "price": 999,
+    "discount_price": 749,
+    "discount_percentage": 25,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hab/h81/16588038078494/proline_grey_straight_straight_track_pants_with_contrast_piping.jpg"
+  },
+  {
+    "id": 18,
+    "name": "striped slim shirt",
+    "brand": "JP JEANS",
+    "price": 999,
+    "discount_price": 799,
+    "discount_percentage": 20,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h1a/hea/15085010092062/jp_jeans_navy_blue_&_white_classic_striped_slim_shirt_with_patch_pocket.jpg"
+  },
+  {
+    "id": 19,
+    "name": "polo t-shirt",
+    "brand": "U.S.Polo Assn.",
+    "price": 1999,
+    "discount_price": 1399,
+    "discount_percentage": 30,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5f00d1f5481085a2e26a85a9/u.s._polo_assn._orange_polo_printed_polo_t-shirt_with_vented_step_hem.jpg"
+  },
+  {
+    "id": 20,
+    "name": "printed hooded pullover",
+    "brand": "GAP",
+    "price": 2499,
+    "discount_price": 1999,
+    "discount_percentage": 20,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5ef50c5a481085a2e26617cc/gap_green_sweat_shirts_printed_hooded_pullover.jpg"
+  },
+  {
+    "id": 21,
+    "name": "checked shirt",
+    "brand": "Campus Sutra",
+    "price": 1499,
+    "discount_price": 824,
+    "discount_percentage": 45,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hd6/h28/17075578765342/campus_sutra_grey_classic_checkered_shirt_with_spread_collar.jpg"
+  },
+  {
+    "id": 22,
+    "name": "low rise skinny jeans",
+    "brand": "SPYKAR",
+    "price": 3699,
+    "discount_price": 2404,
+    "discount_percentage": 35,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/he1/h4a/16542493442078/spykar_blue_skinny_mid-wash_low-rise_skinny_jeans.jpg"
+  },
+  {
+    "id": 23,
+    "name": "sleeveless t-shirt",
+    "brand": "AJIO",
+    "price": 499,
+    "discount_price": 344,
+    "discount_percentage": 31,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/h53/h05/16526902657054/ajio_olive_crew_striped_slim_fit_sleeveless_crew-neck_t-shirt.jpg"
+  },
+  {
+    "id": 24,
+    "name": "slim fit short",
+    "brand": "CROCODILE",
+    "price": 1499,
+    "discount_price": 1049,
+    "discount_percentage": 30,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5efbd401481085a2e268ba8c/crocodile_olive_green_cargo_shorts_slim_fit_cargo_shorts.jpg"
+  },
+  {
+    "id": 25,
+    "name": "graphic t-shirt",
+    "brand": "AJIO",
+    "price": 499,
+    "discount_price": 344,
+    "discount_percentage": 31,
+    "img_url": "https://assets.ajio.com/medias/sys_master/root/hd5/hd5/16526652309534/ajio_rust_crew_graphic_print_crew-neck_t-shirt.jpg"
+  }
+]
